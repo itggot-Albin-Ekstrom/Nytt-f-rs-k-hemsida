@@ -128,3 +128,8 @@ div.Gymkort {
   align-content: center;
   margin: auto;
   font-size: 20px; }
+
+h2 {
+  grid-row: 2/5;
+  align-self: center;
+  margin: auto; }
